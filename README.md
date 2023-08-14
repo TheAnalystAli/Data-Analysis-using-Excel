@@ -1,4 +1,4 @@
-# PortfolioProjects3
+# EXCEL project 1
 Used Excel to clean the data.
 Removed the unwanted columns.
 Changed the date format to the corect one.
